@@ -161,12 +161,7 @@ A confusion matrix is a table that summarizes the performance of a classificatio
 
 **Example:**
 
-                   Predicted Not Spam   |   Predicted Spam
-                   
-Actual Not Spam     TN (True Negative)     FP (False Positive)
-
-Actual Spam         FN (False Negative)    TP (True Positive)
-
+![image](https://github.com/TITHI-KHAN/Naive-Bayes-for-Text-Classification/assets/65033964/0760f51d-26d9-4008-b0f0-4c89298c23ed)
 
 # ROC-AUC Score
 
