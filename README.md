@@ -1,6 +1,6 @@
 # Naïve Bayes for Text Classification
 
-# Introduction no Naïve Bayes
+# Introduction to Naïve Bayes
 
 ❑ Naive Bayes is a classification algorithm based on Bayes' theorem.
 
