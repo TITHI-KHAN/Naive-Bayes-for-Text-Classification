@@ -162,7 +162,9 @@ A confusion matrix is a table that summarizes the performance of a classificatio
 **Example:**
 
                    Predicted Not Spam   |   Predicted Spam
+                   
 Actual Not Spam     TN (True Negative)     FP (False Positive)
+
 Actual Spam         FN (False Negative)    TP (True Positive)
 
 
